@@ -11,14 +11,7 @@ A curated list of awesome resources related to Atomic CSS. Please refer the cont
   - [Articles](#articles)
   - [Conference Talks](#conference-talks)
   - [Screencasts](#screencasts)  
-  - [Similar Porjects](#similar-projects)
-  - [Tutorials](#tutorials)
-  - [Components](#components)
-  - [Frameworks](#frameworks)
-  - [Examples](#examples)
   - [Tools](#tools)
-  - [Cheatsheets](#cheatsheets)
-  - [Miscellaneous](#miscellaneous)
   
 ### Official Links
 
