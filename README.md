@@ -31,7 +31,14 @@ A curated list of awesome resources related to Atomic CSS. Please refer the cont
   
 ### Articles
 
-  - [Challenging CSS Best Practices](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/)
+  - [Challenging CSS Best Practices](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/) by @thierryk on Smashing Magazine
+  - [OOCSS/Atomic CSS are Responsive Web Design anti-patterns](https://benfrain.com/oocss-atomic-css-responsive-web-design-anti-pattern/) by @benfrain
+  - [Is 2016 the year of Atomic CSS?](http://www.creativebloq.com/css3/atomic-css-11619006) by Richard Bray on Creative Bloq
+  - [Atomic CSS as a toolset](https://www.lucidchart.com/techblog/2014/01/31/atomic-css-tool-set/) by Alma Madsen on Lucid Chart
+  - [OOCSS, ACSS, BEM, SMACSS: What are they? What should I use?](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/) by @hilja
+  - [Atomic CSS on Steroids](http://www.cssmojo.com/atomic-css-on-steroids/) by @thierryk on CSS Mojo
+  - [Building and shipping functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/) by Cole Peters
+  - [Can CSS be too modular?](http://csswizardry.com/2015/03/can-css-be-too-modular/) by Harry Roberts on CSS Wizardry
   
 ### Tools
 
