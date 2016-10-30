@@ -10,9 +10,9 @@ A curated list of awesome resources related to Atomic CSS. Please refer the cont
   - [Official Links](#official-links)
   - [Articles](#articles)
   - [Conference Talks](#conference-talks)
+  - [Screencasts](#screencasts)  
   - [Similar Porjects](#similar-projects)
   - [Tutorials](#tutorials)
-  - [Screencasts](#screencasts)
   - [Components](#components)
   - [Frameworks](#frameworks)
   - [Examples](#examples)
@@ -39,6 +39,18 @@ A curated list of awesome resources related to Atomic CSS. Please refer the cont
   - [Atomic CSS on Steroids](http://www.cssmojo.com/atomic-css-on-steroids/) by @thierryk on CSS Mojo
   - [Building and shipping functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/) by Cole Peters
   - [Can CSS be too modular?](http://csswizardry.com/2015/03/can-css-be-too-modular/) by Harry Roberts on CSS Wizardry
+  
+### Conference Talks
+
+  - [Atomic CSS](https://www.youtube.com/watch?v=bokjM0ZaizQ) by Thierry Koblentz at FEDLondon
+  - [Atomic Cascading Style Sheets](https://www.youtube.com/watch?v=ojj_-6Xiud4) by Renato Iwashima at HTML5DevConf
+  - [Atomic CSS: How to Take Control of Your CSS](https://www.youtube.com/watch?v=P2seO1yYz88) by Amelia Downs at WWCode Network Events
+  
+### Screencasts
+
+  - [What is Atomic CSS? - Organising CSS](https://www.youtube.com/watch?v=NRqbLuKKOlE) by Richard Bray
+  - [Getting started with Yahoo's Atomizer - Organising CSS](https://www.youtube.com/watch?v=dX_oVU2TiVo) by Richard Bray
+  - [Atomic CSS on steroids](https://www.youtube.com/watch?v=988XpUvzslE) by @thierryk
   
 ### Tools
 
