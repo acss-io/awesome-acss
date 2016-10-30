@@ -3,7 +3,7 @@
 A curated list of awesome resources related to Atomic CSS. Please refer the contribution guidelines and the license for more information.
 
 [![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Gitter Chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/pankajparashar/awesome-riotjs)
+[![Gitter Chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/acss-io/atomizer)
 
 ## Table of contents  
 
@@ -19,6 +19,24 @@ A curated list of awesome resources related to Atomic CSS. Please refer the cont
   - [Tools](#tools)
   - [Cheatsheets](#cheatsheets)
   - [Miscellaneous](#miscellaneous)
+  
+### Official Links
+
+  - [Project homepage](http://acss.io/)
+  - [Github Organization](https://github.com/acss-io)
+  - [Atomizer](https://github.com/acss-io/atomizer)
+  - [Official Docs](http://acss.io/quick-start.html)
+  - [Frequently Asked Questions](http://acss.io/frequently-asked-questions.html)
+  - [Syntax Reference](http://acss.io/reference)
+  
+### Articles
+
+  - [Challenging CSS Best Practices](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/)
+  
+### Tools
+
+  - [Atomizer Web](http://pankajparashar.com/atomizer-web/)
+  - [Atomize IO](https://atomize-io.herokuapp.com)
   
 ## Contribution Guidelines  
 
