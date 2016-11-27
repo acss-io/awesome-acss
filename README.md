@@ -49,6 +49,7 @@ A curated list of awesome resources related to Atomic CSS. Please refer the cont
 
   - [Atomizer Web](http://pankajparashar.com/atomizer-web/)
   - [Atomize IO](https://atomize-io.herokuapp.com)
+  - [Atomic CSS Helper (Chrome extension)](https://chrome.google.com/webstore/detail/atomic-css-helper/gpickgadladepnjlmaipnekafhpmangd)
   
 ## Contribution Guidelines  
 
