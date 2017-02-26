@@ -14,7 +14,7 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
   - [Screencasts](#screencasts)  
   - [Tools](#tools)
   
-### Official Links
+## Official Links
 
   - [Project homepage](http://acss.io/)
   - [Github Organization](https://github.com/acss-io)
@@ -23,7 +23,7 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
   - [Frequently Asked Questions](http://acss.io/frequently-asked-questions.html)
   - [Syntax Reference](http://acss.io/reference)
   
-### Articles
+## Articles
 
   - [Challenging CSS Best Practices](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/) by @thierryk on Smashing Magazine
   - [Is 2016 the year of Atomic CSS?](http://www.creativebloq.com/css3/atomic-css-11619006) by Richard Bray on Creative Bloq
@@ -32,23 +32,23 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
   - [Atomic CSS on Steroids](http://www.cssmojo.com/atomic-css-on-steroids/) by @thierryk on CSS Mojo
   - [Building and shipping functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/) by Cole Peters
   
-### Conference Talks
+## Conference Talks
 
   - [Atomic CSS](https://www.youtube.com/watch?v=bokjM0ZaizQ) by Thierry Koblentz at FEDLondon
   - [Atomic Cascading Style Sheets](https://www.youtube.com/watch?v=ojj_-6Xiud4) by Renato Iwashima at HTML5DevConf
   - [Atomic CSS: How to Take Control of Your CSS](https://www.youtube.com/watch?v=P2seO1yYz88) by Amelia Downs at WWCode Network Events
   
-### Slide Decks  
+## Slide Decks  
   
   - [Atomic CSS](https://www.haikudeck.com/atomic-css-science-and-technology-presentation-dJ0xlFjhBQ) by @thierryk  
   
-### Screencasts
+## Screencasts
 
   - [What is Atomic CSS? - Organising CSS](https://www.youtube.com/watch?v=NRqbLuKKOlE) by Richard Bray
   - [Getting started with Yahoo's Atomizer - Organising CSS](https://www.youtube.com/watch?v=dX_oVU2TiVo) by Richard Bray
   - [Atomic CSS on steroids](https://www.youtube.com/watch?v=988XpUvzslE) by @thierryk
   
-### Tools
+## Tools
 
   - [Atomizer Web](http://pankajparashar.com/atomizer-web/) by @pankajparashar
   - [Atomize IO](https://atomize-io.herokuapp.com) by @pankajparashar
