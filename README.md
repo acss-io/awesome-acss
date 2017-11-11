@@ -13,6 +13,7 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
   - [Slide Decks](#slide-decks)
   - [Screencasts](#screencasts)  
   - [Tools](#tools)
+  - [Editor Plugins](#editor-plugins)
   
 ## Official Links
 
@@ -50,10 +51,18 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
   
 ## Tools
 
-  - [Atomizer Web](http://pankajparashar.com/atomizer-web/) by @pankajparashar
+  - [Atomizer Web](http://pankajparashar.com/atomizer-web/) Online playground for ACSS - by @pankajparashar
   - [Atomize IO](https://atomize-io.herokuapp.com) by @pankajparashar
-  - [Atomic CSS Helper](https://chrome.google.com/webstore/detail/atomic-css-helper/gpickgadladepnjlmaipnekafhpmangd) by @cazinge
-  - [ACSS Browser](https://github.com/acss-io/acss-browser) by @whmountains
+  - [ACSS Browser](https://github.com/acss-io/acss-browser) Auto-generate acss classes in your browser for debugging - by @whmountains
+  - [Web Maker](https://webmakerapp.com) Offline web playground as a Google Chrome Extension with ACSS support - by @chinchang
+  - [ACSS Searcher](https://chrome.google.com/webstore/detail/acss-searcher/jfjnohnigljooioglaeegkjkggjmamjo) A handy Atomic CSS class searcher on Chrome extension - by @tom76kimo
+  
+## Editor Plugins
+
+  - [VSCode Extension for Atomizer](https://marketplace.visualstudio.com/items?itemName=pankaj-parashar.atomizer) by @pankajparashar
+  - [Atom package for Atomizer](https://atom.io/packages/atomizer) by @pankajparashar
+  - [VSCode Extension - Atomic-css-search](https://atom.io/packages/atomizer) by @ArvinH
+
   
 ## Contribution Guidelines  
 
