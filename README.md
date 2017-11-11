@@ -61,7 +61,7 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
 
   - [VSCode Extension for Atomizer](https://marketplace.visualstudio.com/items?itemName=pankaj-parashar.atomizer) by @pankajparashar
   - [Atom package for Atomizer](https://atom.io/packages/atomizer) by @pankajparashar
-  - [VSCode Extension - Atomic-css-search](https://atom.io/packages/atomizer) by @ArvinH
+  - [VSCode Extension - Atomic-css-search](https://marketplace.visualstudio.com/items?itemName=ArvinH.atomic-css-search) by @ArvinH
 
   
 ## Contribution Guidelines  
