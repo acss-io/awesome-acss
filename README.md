@@ -53,7 +53,6 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
 
   - [Atomizer Web](http://pankajparashar.com/atomizer-web/) Online playground for ACSS - by @pankajparashar
   - [Atomize IO](https://atomize-io.herokuapp.com) by @pankajparashar
-  - [Atomic CSS Helper](https://chrome.google.com/webstore/detail/atomic-css-helper/gpickgadladepnjlmaipnekafhpmangd) Google Chrome extension to Convert between Atomic and Regular CSS - by @cazinge
   - [ACSS Browser](https://github.com/acss-io/acss-browser) Auto-generate acss classes in your browser for debugging - by @whmountains
   - [Web Maker](https://webmakerapp.com) Offline web playground as a Google Chrome Extension with ACSS support - by @chinchang
   - [ACSS Searcher](https://chrome.google.com/webstore/detail/acss-searcher/jfjnohnigljooioglaeegkjkggjmamjo) A handy Atomic CSS class searcher on Chrome extension - by @tom76kimo
