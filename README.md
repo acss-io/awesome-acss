@@ -32,6 +32,7 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
   - [OOCSS, ACSS, BEM, SMACSS: What are they? What should I use?](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/) by @hilja
   - [Atomic CSS on Steroids](http://www.cssmojo.com/atomic-css-on-steroids/) by @thierryk on CSS Mojo
   - [Building and shipping functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/) by Cole Peters
+  - [How to write better CSS in teams with ACSS — A dynamic Atomic CSS library](https://medium.freecodecamp.org/acss-a-dynamic-atomic-css-library-402dff9756e0) by @chinchang
   
 ## Conference Talks
 
