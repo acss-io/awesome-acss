@@ -3,7 +3,6 @@
 A curated list of awesome resources related to Atomic CSS. Please refer to the contribution guidelines and the license for more information.
 
 [![Awesome Badge](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![Gitter Chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/acss-io/atomizer)
 
 ## Table of contents  
 
@@ -27,11 +26,11 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
 ## Articles
 
   - [Challenging CSS Best Practices](https://www.smashingmagazine.com/2013/10/challenging-css-best-practices-atomic-approach/) by @thierryk on Smashing Magazine
+  - [The Making of Atomic CSS: An Interview With Thierry Koblentz](https://css-tricks.com/thierry-koblentz-atomic-css/)
   - [Is 2016 the year of Atomic CSS?](http://www.creativebloq.com/css3/atomic-css-11619006) by Richard Bray on Creative Bloq
   - [Atomic CSS as a toolset](https://www.lucidchart.com/techblog/2014/01/31/atomic-css-tool-set/) by Alma Madsen on Lucid Chart
   - [OOCSS, ACSS, BEM, SMACSS: What are they? What should I use?](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/) by @hilja
   - [Atomic CSS on Steroids](http://www.cssmojo.com/atomic-css-on-steroids/) by @thierryk on CSS Mojo
-  - [Building and shipping functional CSS](https://blog.colepeters.com/building-and-shipping-functional-css/) by Cole Peters
   - [How to write better CSS in teams with ACSS — A dynamic Atomic CSS library](https://medium.freecodecamp.org/acss-a-dynamic-atomic-css-library-402dff9756e0) by @chinchang
   
 ## Conference Talks
@@ -53,7 +52,6 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
 ## Tools
 
   - [Atomizer Web](http://pankajparashar.com/atomizer-web/) Online playground for ACSS - by @pankajparashar
-  - [Atomize IO](https://atomize-io.herokuapp.com) by @pankajparashar
   - [ACSS Browser](https://github.com/acss-io/acss-browser) Auto-generate acss classes in your browser for debugging - by @whmountains
   - [Web Maker](https://webmakerapp.com) Offline web playground as a Google Chrome Extension with ACSS support - by @chinchang
   - [ACSS Searcher](https://chrome.google.com/webstore/detail/acss-searcher/jfjnohnigljooioglaeegkjkggjmamjo) A handy Atomic CSS class searcher on Chrome extension - by @tom76kimo
@@ -61,14 +59,14 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
   
 ## Editor Plugins
 
-  - [VSCode Extension for Atomizer](https://marketplace.visualstudio.com/items?itemName=pankaj-parashar.atomizer) by @pankajparashar
-  - [Atom package for Atomizer](https://atom.io/packages/atomizer) by @pankajparashar
+  - [VSCode Extension - Atomic CSS Snippets](https://marketplace.visualstudio.com/items?itemName=acss-io.atomic-css-snippets) by @kfay
+  - [VSCode Extension - Atomizer](https://marketplace.visualstudio.com/items?itemName=pankaj-parashar.atomizer) by @pankajparashar
   - [VSCode Extension - Atomic-css-search](https://marketplace.visualstudio.com/items?itemName=ArvinH.atomic-css-search) by @ArvinH
 
   
 ## Contribution Guidelines  
 
-Please feel free to suggest new resources by [creating a new issue](https://github.com/pankajparashar/awesome-acss/issues) and submit translation in other languages by [creating a new pull request](https://github.com/pankajparashar/awesome-acss/pulls). Few points to note,
+Please feel free to suggest new resources by [creating a new issue](https://github.com/acss-io/awesome-acss/issues) and submit translation in other languages by [creating a new pull request](https://github.com/acss-io/awesome-acss/pulls). Few points to note,
 
   - Use one of the appropriate lables, namely, **#official-links**, **#tutorials**, **#demos**, **#miscellaneous** while creating a new issue to categorize the resource.
   - To request the addition of a new label, raise a separate issue to create the label first and tag it appropriately with the **#new-label**.
