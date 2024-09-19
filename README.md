@@ -37,7 +37,6 @@ A curated list of awesome resources related to Atomic CSS. Please refer to the c
 
   - [Atomic CSS](https://www.youtube.com/watch?v=bokjM0ZaizQ) by Thierry Koblentz at FEDLondon
   - [Atomic Cascading Style Sheets](https://www.youtube.com/watch?v=ojj_-6Xiud4) by Renato Iwashima at HTML5DevConf
-  - [Atomic CSS: How to Take Control of Your CSS](https://www.youtube.com/watch?v=P2seO1yYz88) by Amelia Downs at WWCode Network Events
   
 ## Slide Decks  
   
